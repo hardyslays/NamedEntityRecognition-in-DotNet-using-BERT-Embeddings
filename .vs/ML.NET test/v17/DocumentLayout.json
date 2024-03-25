@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet projects\\ML.NET test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|d:\\dotnet projects\\ml.net test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|d:\\dotnet projects\\ml.net test\\tokenizer\\wordtokenizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|solutionrelative:tokenizer\\wordtokenizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|d:\\dotnet projects\\ml.net test\\prediction\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|solutionrelative:prediction\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|d:\\dotnet projects\\ml.net test\\inputtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|solutionrelative:inputtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|d:\\dotnet projects\\ml.net test\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|d:\\dotnet projects\\ml.net test\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|solutionrelative:output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|d:\\dotnet projects\\ml.net test\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|d:\\dotnet projects\\ml.net test\\assets\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11DC6B87-A4C4-4D6E-B78C-E64944E0B3A6}|ML.NET test.csproj|solutionrelative:assets\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\ML.NET test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Dotnet projects\\ML.NET test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:38:32.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputTokens.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\ML.NET test\\InputTokens.cs",
+              "RelativeDocumentMoniker": "InputTokens.cs",
+              "ToolTip": "D:\\Dotnet projects\\ML.NET test\\InputTokens.cs",
+              "RelativeToolTip": "InputTokens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:25:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordTokenizer.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\ML.NET test\\Tokenizer\\WordTokenizer.cs",
+              "RelativeDocumentMoniker": "Tokenizer\\WordTokenizer.cs",
+              "ToolTip": "D:\\Dotnet projects\\ML.NET test\\Tokenizer\\WordTokenizer.cs",
+              "RelativeToolTip": "Tokenizer\\WordTokenizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:44:19.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\ML.NET test\\Prediction\\Engine.cs",
+              "RelativeDocumentMoniker": "Prediction\\Engine.cs",
+              "ToolTip": "D:\\Dotnet projects\\ML.NET test\\Prediction\\Engine.cs",
+              "RelativeToolTip": "Prediction\\Engine.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwC4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:32:04.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\ML.NET test\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "D:\\Dotnet projects\\ML.NET test\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:57:11.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Output.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\ML.NET test\\Output.cs",
+              "RelativeDocumentMoniker": "Output.cs",
+              "ToolTip": "D:\\Dotnet projects\\ML.NET test\\Output.cs",
+              "RelativeToolTip": "Output.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:27:42.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Config.cs",
+              "DocumentMoniker": "D:\\Dotnet projects\\ML.NET test\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "D:\\Dotnet projects\\ML.NET test\\Config.cs",
+              "RelativeToolTip": "Config.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:54:05.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "config.json",
+              "DocumentMoniker": "D:\\Dotnet projects\\ML.NET test\\Assets\\config.json",
+              "RelativeDocumentMoniker": "Assets\\config.json",
+              "ToolTip": "D:\\Dotnet projects\\ML.NET test\\Assets\\config.json",
+              "RelativeToolTip": "Assets\\config.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T18:09:31.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\ML.NET test.exe
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\ML.NET test.deps.json
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\ML.NET test.runtimeconfig.json
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\ML.NET test.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\ML.NET test.pdb
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Google.Protobuf.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.Core.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.Data.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.KMeansClustering.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.PCA.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.StandardTrainers.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.Transforms.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.CpuMath.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.DataView.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.OnnxRuntime.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Microsoft.ML.OnnxTransformer.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\System.CodeDom.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\System.Numerics.Tensors.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\runtimes\linux-arm\native\libLdaNative.so
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\runtimes\linux-arm64\native\libLdaNative.so
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\runtimes\linux-x64\native\libLdaNative.so
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\runtimes\osx-arm64\native\libLdaNative.dylib
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\runtimes\win-arm64\native\LdaNative.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\runtimes\win-x64\native\LdaNative.dll
+D:\Dotnet projects\ML.NET test\bin\Release\net8.0\runtimes\win-x86\native\LdaNative.dll
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET test.csproj.AssemblyReference.cache
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET test.AssemblyInfoInputs.cache
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET test.AssemblyInfo.cs
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET test.csproj.CoreCompileInputs.cache
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET t.E872970C.Up2Date
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET test.dll
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\refint\ML.NET test.dll
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET test.pdb
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ML.NET test.genruntimeconfig.cache
+D:\Dotnet projects\ML.NET test\obj\Release\net8.0\ref\ML.NET test.dll
